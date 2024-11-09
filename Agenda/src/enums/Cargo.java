@@ -1,0 +1,11 @@
+package enums;
+
+public enum Cargo {
+	CABELEIREIRO,
+	RECEPCIONISTA,
+	MANICURE,
+	DESIGNER,
+	ESTETICISTA,
+	MAQUIADORA,
+	VISAGISTA
+}
